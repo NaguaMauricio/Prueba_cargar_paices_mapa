@@ -13,7 +13,7 @@
         <activity android:name=".Detalles_de_los_Paises"></activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="INGRESAR API.KEY" />
+            android:value="COLOCAR LA API.KEY" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
